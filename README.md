@@ -1,5 +1,5 @@
-# Java-app_Hotel
-Aplicación de escritorio para un Hotel usando Java.
+# Java-SQL-app_Hotel
+Aplicación de escritorio para un Hotel usando Java y una BD SQL.
 Resolución al challenge Alura #6
 
 BD "hotel", con tablas "usuarios", "huespedes" y "reservas". User/pass BD --> admin/adm123
